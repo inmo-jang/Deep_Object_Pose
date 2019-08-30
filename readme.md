@@ -38,11 +38,12 @@ The following steps describe the native installation. Alternatively, use the pro
     $ git clone https://github.com/NVlabs/Deep_Object_Pose.git dope
     ```
 
-4. **Install python dependencies**
+4. **Install python dependencies** 
     ```
     $ cd ~/catkin_ws/src/dope
     $ pip install -r requirements.txt
     ```
+    Note: you may need to use pip2 instead.
 
 5. **Install ROS dependencies**
     ```
