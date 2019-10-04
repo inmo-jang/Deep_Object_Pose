@@ -8,9 +8,9 @@ downscale_height: 500      # if the input image is larger than this, scale it do
 weights: {
     # "cracker":"package://dope/weights/cracker_60.pth",
     # "gelatin":"package://dope/weights/gelatin_60.pth",
-     "meat":"package://dope/weights/meat_20.pth",
+    # "meat":"package://dope/weights/meat_20.pth",
      "mustard":"package://dope/weights/mustard_60.pth",
-    #"soup":"package://dope/weights/soup_60.pth",
+     "soup":"package://dope/weights/soup_60.pth",
     #"sugar":"package://dope/weights/sugar_60.pth"
     # "bleach":"package://dope/weights/bleach_28_dr.pth"
 }
